@@ -1,0 +1,13 @@
+node_modules/
+vendor
+
+*.zip
+*.rar
+*.tar
+*.gz
+DS_Mode
+DS_mode
+*.orig
+tmp
+dist
+
