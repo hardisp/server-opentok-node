@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "opentok": "^2.9.1"
+    "express": "^4.17.3",
+    "opentok": "^2.15.2"
   },
   "devDependencies": {},
   "scripts": {
